@@ -1,7 +1,7 @@
 # Biz360 Financial Engine
 
 ## 1. Executive Summary
-The Biz360 Financial Engine is an enterprise-grade automated data pipeline designed to bridge the gap between transactional ERP data (MSSQL) and strategic financial reporting. It automates the flow of the General Ledger into a CFI-Standard 3-Statement Model and a Power BI Executive Dashboard.
+The Financial Engine is an enterprise-grade automated data pipeline designed to bridge the gap between transactional ERP data (MSSQL) and strategic financial reporting. It automates the flow of the General Ledger into a CFI-Standard 3-Statement Model and a Power BI Executive Dashboard.
 
 **Status:** Phase 0 (Setup)
 **License:** MIT
